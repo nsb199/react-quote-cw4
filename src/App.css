@@ -103,7 +103,7 @@ footer{
     margin: 1.5rem auto;
     padding: 1rem;
     /* border: 1px solid gray; */
-    border-radius: 5px;
+    border-radius: 20px;
     text-align: center;
     box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
  background-color: rgb(255, 255, 255);
@@ -111,7 +111,7 @@ footer{
 }
 .quotes-container h3{
     line-height: 30px;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
     font-family: Outfit , sans-serif;
     font-size: 26px;
     font-weight: 500;
